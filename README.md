@@ -3,4 +3,4 @@ This is a beginner level C++ code to make the Blackjack casino game using classe
 
 This project was worked on by Ciaran Downes, Nick Ashley and myself.
 
-I would appreciate tips on how to make this more concise as well. Drop a comment!
+<u>I would appreciate tips on how to make this more concise as well. Drop a comment!</u>
